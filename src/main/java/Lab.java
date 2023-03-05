@@ -71,7 +71,7 @@ public class Lab {
      */
     public String removeFromStartOfQueue(Queue<String> queue){
         //return "";
-        return queue.remove();
+         return queue.remove();
     }
 
     /**
